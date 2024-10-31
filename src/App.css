@@ -1,0 +1,13 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100wh;
+  height: 100vh;
+  background: linear-gradient(hsl(262, 54%, 75%), rgb(114, 52, 207));
+
+}
