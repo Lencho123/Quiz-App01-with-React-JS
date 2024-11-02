@@ -1,22 +1,22 @@
 
 const data=[
     {
-        question:"What is your name?",
-        option1:"Lencho or Linc",
-        option2:"Kenna",
-        option3:"Kaneh",
-        option4:"All",
-        number:1,
-        answer:"option4"
-    },
-    {
         question: "Which is the largest planet in our Solar System?",
         option1: "Earth",
         option2: "Mars",
         option3: "Jupiter", // Correct Answer
         option4: "Venus",
-        number:2,
+        number:1,
         answer:"option2"
+    },
+    {
+        question:"Who am I?",
+        option1:"Lencho or Linc",
+        option2:"Kenna",
+        option3:"Kaneh",
+        option4:"All",
+        number:2,
+        answer:"option4"
     },
     {
         question: "Who developed the theory of relativity?",
